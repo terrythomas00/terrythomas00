@@ -45,8 +45,8 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-1&theme=github_dark" />
+<a href="https://github.com/terrythomas00/terraformCI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terrythomas00&repo=terraformCI&theme=github_dark" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/project-2">
