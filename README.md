@@ -39,9 +39,9 @@
 
 ---
 
-### 📁 Recent Projects
+### 📁 Below are some of my recent projects
 
-> Below are some of my recent projects 👇
+> 
 
 <p align="center">
 
