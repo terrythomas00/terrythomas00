@@ -49,8 +49,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terrythomas00&repo=terraformCI&theme=github_dark" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=project-2&theme=github_dark" />
+<a href="https://github.com/terrythomas00/azure_static_website_storage_account">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terrythomas00&repo=github.com/terrythomas00/azure_static_website_storage_account&theme=github_dark" />
 </a>
 
 </p>
