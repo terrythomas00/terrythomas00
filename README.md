@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://github.com/terrythomas00/azure_static_website_storage_account">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terrythomas00&repo=github.com/terrythomas00/azure_static_website_storage_account&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terrythomas00&repo=azure_static_website_storage_account&theme=github_dark" />
 </a>
 
 </p>
