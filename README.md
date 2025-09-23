@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-🔐 Aspiring Cloud Security Specialist with a DevOps foundation.<br>
+🔐 Aspiring Cloud Security Engineer with a DevOps foundation.<br>
 🚀 Currently building secure, scalable infrastructure in the cloud.<br>
 🔧 Skilled in AWS, Azure, Terraform, and Bash scripting.<br>
 🧠 Learning Docker, Kubernetes, Python, and AI — with a security-first mindset.
