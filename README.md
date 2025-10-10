@@ -53,6 +53,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terrythomas00&repo=azure_static_website_storage_account&theme=github_dark" />
 </a>
 
+<a href="https://github.com/terrythomas00/Terraform-Template-for-AWS-and-Azure.git">
+</a>
 </p>
 
 > 🛠 Add more pinned projects above by changing the repo name and username.
