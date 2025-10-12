@@ -54,7 +54,7 @@
 </a>
 
 <a href="https://github.com/terrythomas00/Terraform-Template-for-AWS-and-Azure.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terrythomas00&repo=azure_static_website_storage_account&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terrythomas00&repo=Terraform-Template-for-AWS-and-Azure&theme=github_dark" />
 </a>
 </p>
 
