@@ -24,6 +24,7 @@
 #### ⚙️ Infrastructure & Automation
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4EAA25?style=for-the-badge&logo=gnupython&logoColor=white)
 
 #### 🔐 Focus: Cloud Security
 - Identity & Access Management (IAM)
