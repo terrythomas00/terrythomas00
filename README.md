@@ -18,8 +18,8 @@ I'm a [Current Role/Title] who [brief transition or career journey statement]. I
 ## Recent Projects
 
 Below are some of my recent projects:
-- **Azure Static Website:** [Deploying an unsecure and secure static website in azure using a storage account ]. [Link]
-- **[Project Name 2]:** [Brief description]. [Link]
+- **Azure Static Website:** Deploying an unsecure and secure static website in azure using a storage account. [Link](https://github.com/terrythomas00/azure_static_website_storage_account.git)
+- **AWS EBS Removal Script:** Python script that removes unused/available EBS volumes. [Link](https://github.com/terrythomas00/aws-ebs-removel-python-script.git)
 - **[Project Name 3]:** [Brief description]. [Link]
 - **[Project Name 4]:** [Brief description]. [Link]
 - **[Project Name 5]:** [Brief description]. [Link]
