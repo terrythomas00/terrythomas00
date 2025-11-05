@@ -18,7 +18,7 @@ I'm a [Current Role/Title] who [brief transition or career journey statement]. I
 ## Recent Projects
 
 Below are some of my recent projects:
-- **[Project Name 1]:** [Brief description]. [Link]
+- **Azure Static Website:** [Deploying an unsecure and secure static website in azure using a storage account ]. [Link]
 - **[Project Name 2]:** [Brief description]. [Link]
 - **[Project Name 3]:** [Brief description]. [Link]
 - **[Project Name 4]:** [Brief description]. [Link]
@@ -31,14 +31,14 @@ Below are some of my recent projects:
 If you ever feel like collaborating, contributing, or working together (because isn't that what it's all about?), here are a few more things about me and my professional background:
 
 ### Technical Skills
-- ⚡ [Skill 1]
-- ⚡ [Skill 2]
-- ⚡ [Skill 3]
-- ⚡ [Skill 4]
-- ⚡ [Skill 5]
-- ⚡ [Skill 6]
-- ⚡ [Skill 7]
-- ⚡ [Skill 8]
+- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### [Previous Career/Domain] Skills That Translate to [Current Field]
 - ✔️ [Transferable skill 1]
