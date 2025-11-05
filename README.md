@@ -1,71 +1,75 @@
-<!-- Profile README.md -->
-
-<h1 align="center">Hey there 👋, I'm Terry </h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
 </p>
 
-<p align="center">
-🔐 Aspiring Cloud Security Engineer with a DevOps foundation.<br>
-🚀 Currently building secure, scalable infrastructure in the cloud.<br>
-🔧 Skilled in AWS, Azure, Terraform, and Bash scripting.<br>
-🧠 Learning Docker, Kubernetes, Python, and AI — with a security-first mindset.
-</p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+# Hi there, I'm [Your Name]! 👋
 
-#### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+I'm a [Current Role/Title] who [brief transition or career journey statement]. I'm also a [previous role/experience] who [what you gained from that experience].
 
-#### ⚙️ Infrastructure & Automation
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4EAA25?style=for-the-badge&logo=gnupython&logoColor=white)
+[Opening paragraph about your journey - discuss your previous mindset, realizations, and what drove your transition or current focus]
 
-#### 🔐 Focus: Cloud Security
-- Identity & Access Management (IAM)
-- Secrets Management
-- Secure DevOps (DevSecOps)
-- Cloud Compliance (CIS, NIST)
+[Second paragraph explaining your current focus area and why it matters to you - use analogies or metaphors to make it relatable]
 
-#### 📚 Currently Learning
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI Security](https://img.shields.io/badge/Securing%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+[Third paragraph about where you are in your journey and your philosophy/approach to growth and learning]
+
+## Recent Projects
+
+Below are some of my recent projects:
+- **[Project Name 1]:** [Brief description]. [Link]
+- **[Project Name 2]:** [Brief description]. [Link]
+- **[Project Name 3]:** [Brief description]. [Link]
+- **[Project Name 4]:** [Brief description]. [Link]
+- **[Project Name 5]:** [Brief description]. [Link]
 
 ---
 
-### 📁 Below are some of my recent projects
+## Let's Collaborate! 🤝
 
-> 
+If you ever feel like collaborating, contributing, or working together (because isn't that what it's all about?), here are a few more things about me and my professional background:
 
-<p align="center">
+### Technical Skills
+- ⚡ [Skill 1]
+- ⚡ [Skill 2]
+- ⚡ [Skill 3]
+- ⚡ [Skill 4]
+- ⚡ [Skill 5]
+- ⚡ [Skill 6]
+- ⚡ [Skill 7]
+- ⚡ [Skill 8]
 
-<a href="https://github.com/terrythomas00/terraformCI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terrythomas00&repo=terraformCI&theme=github_dark" />
-</a>
+### [Previous Career/Domain] Skills That Translate to [Current Field]
+- ✔️ [Transferable skill 1]
+- ✔️ [Transferable skill 2]
+- ✔️ [Transferable skill 3]
+- ✔️ [Transferable skill 4]
+- ✔️ [Transferable skill 5]
 
-<a href="https://github.com/terrythomas00/azure_static_website_storage_account">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terrythomas00&repo=azure_static_website_storage_account&theme=github_dark" />
-</a>
-
-<a href="https://github.com/terrythomas00/Terraform-Template-for-AWS-and-Azure.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=terrythomas00&repo=Terraform-Template-for-AWS-and-Azure&theme=github_dark" />
-</a>
-</p>
-
-> 🛠 Add more pinned projects above by changing the repo name and username.
+### [Another Previous Experience] Skills That Translate to [Current Field]
+- ✔️ [Transferable skill 1]
+- ✔️ [Transferable skill 2]
+- ✔️ [Transferable skill 3]
+- ✔️ [Transferable skill 4]
+- ✔️ [Transferable skill 5]
 
 ---
 
-### 📈 GitHub Stats
+## Beyond Work 🌟
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" alt="_
+I also enjoy life. In my spare time, you can find me:
+- 🎯 [Hobby 1] ([specific details or accomplishments])
+- 🎯 [Hobby 2] ([specific details or locations])
+- 🎯 [Hobby 3] ([specific styles or types])
+- 🎯 [Hobby 4] ([specific experiences or locations])
+- 🎯 [Hobby 5] ([specific achievements])
+- 🎯 [Hobby 6] ([current progress or goals])
+
+---
+
+## Connect With Me
+- 📧 Email: [your.email@example.com]
+- 💼 LinkedIn: [Your LinkedIn URL]
+- 🐦 Twitter: [@yourhandle]
+- 🌐 Website: [yourwebsite.com]
