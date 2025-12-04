@@ -1,4 +1,4 @@
-# Hi, I'm Terry Thomas 👋
+# Hi, I'm Terry 👋
 
 **DevOps Engineer | Cloud Infrastructure | Python Automation | Azure Certified**
 
