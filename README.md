@@ -1,75 +1,55 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
-</p>
+# Hi, I'm Terry Thomas 👋
 
+**DevOps Engineer | Cloud Infrastructure | Python Automation | Azure Certified**
 
----
+I'm a DevOps Engineer with 7+ years of experience building secure, scalable cloud infrastructure on AWS and Azure. I specialize in automation, infrastructure as code, and cloud security.
 
-# Hi there, I'm [Your Name]! 👋
+## 🔧 Technologies & Tools
 
-I'm a [Current Role/Title] who [brief transition or career journey statement]. I'm also a [previous role/experience] who [what you gained from that experience].
+**Cloud Platforms:** AWS, Azure  
+**Container Orchestration:** Kubernetes, Docker  
+**Infrastructure as Code:** Terraform, ARM Templates  
+**Automation & Scripting:** Python, Bash  
+**CI/CD:** GitHub Actions, Bitbucket Pipelines, Jenkins  
+**Monitoring:** Prometheus, Grafana, CloudWatch  
+**Security:** Azure Key Vault, IAM, Security Groups, SOC2 Compliance  
 
-[Opening paragraph about your journey - discuss your previous mindset, realizations, and what drove your transition or current focus]
+## 🚀 Featured Projects
 
-[Second paragraph explaining your current focus area and why it matters to you - use analogies or metaphors to make it relatable]
+### [Serverless S3 Compliance Scanner](https://github.com/terrythomas00/serverless-S3-compliance-scanner)
+Automated security scanner for S3 buckets with AI-powered risk analysis and reporting
+- **Tech:** Python, AWS Lambda, S3, CloudWatch, AI/ML
+- **Impact:** Identifies security misconfigurations and compliance violations
 
-[Third paragraph about where you are in your journey and your philosophy/approach to growth and learning]
+### [AWS EBS Volume Cleanup Tool](https://github.com/terrythomas00/aws-ebs-removel-python-script)
+Python automation tool for identifying and removing unused EBS volumes
+- **Tech:** Python, boto3, AWS EC2
+- **Impact:** Reduces cloud costs by cleaning up orphaned resources
 
-## Recent Projects
+### [Azure Static Website Deployment](https://github.com/terrythomas00/azure_static_website_storage_account)
+Secure static website hosting using Azure Storage with custom domain support
+- **Tech:** Azure Storage, ARM Templates, Azure CDN
+- **Impact:** Cost-effective, highly available web hosting solution
 
-Below are some of my recent projects:
-- **Azure Static Website:** Deploying an unsecure and secure static website in azure using a storage account. [Link](https://github.com/terrythomas00/azure_static_website_storage_account.git)
-- **AWS EBS Removal Script:** Python script that removes unused/available EBS volumes. [Link](https://github.com/terrythomas00/aws-ebs-removel-python-script.git)
-- **Serverless S3 Compliance Scanner:** Serverless S3 security scanner with automated reporting and AI-powered risk summaries. [Link](https://github.com/terrythomas00/serverless-S3-compliance-scanner.git)
-- **[Project Name 4]:** [Brief description]. [Link]
-- **[Project Name 5]:** [Brief description]. [Link]
+## 📈 Current Focus
 
----
+Building production-grade Kubernetes infrastructure with security hardening, GitOps workflows, and comprehensive monitoring. Check out my latest projects focusing on:
+- Container orchestration (Kubernetes/AKS)
+- Infrastructure as Code (Terraform modules)
+- Cloud security automation
+- Cost optimization
 
-## Let's Collaborate! 🤝
+## 📫 Let's Connect
 
-If you ever feel like collaborating, contributing, or working together (because isn't that what it's all about?), here are a few more things about me and my professional background:
+- 📧 Email: terry.thomas00@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/terry-thomas-a2081b131
 
-### Technical Skills
-- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- ![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-- ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+## 🎯 Certifications
 
-### [Previous Career/Domain] Skills That Translate to [Current Field]
-- ✔️ [Transferable skill 1]
-- ✔️ [Transferable skill 2]
-- ✔️ [Transferable skill 3]
-- ✔️ [Transferable skill 4]
-- ✔️ [Transferable skill 5]
-
-### [Another Previous Experience] Skills That Translate to [Current Field]
-- ✔️ [Transferable skill 1]
-- ✔️ [Transferable skill 2]
-- ✔️ [Transferable skill 3]
-- ✔️ [Transferable skill 4]
-- ✔️ [Transferable skill 5]
+- Azure Administrator Associate (AZ-104) - 2025
+- Security+ 
+- Linux Essentials (LE-1) - 2018
 
 ---
 
-## Beyond Work 🌟
-
-I also enjoy life. In my spare time, you can find me:
-- 🎯 [Hobby 1] ([specific details or accomplishments])
-- 🎯 [Hobby 2] ([specific details or locations])
-- 🎯 [Hobby 3] ([specific styles or types])
-- 🎯 [Hobby 4] ([specific experiences or locations])
-- 🎯 [Hobby 5] ([specific achievements])
-- 🎯 [Hobby 6] ([current progress or goals])
-
----
-
-## Connect With Me
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 🐦 Twitter: [@yourhandle]
-- 🌐 Website: [yourwebsite.com]
+💡 *Open to DevOps Engineer, Cloud Engineer, and Platform Engineer opportunities*
