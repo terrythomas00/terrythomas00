@@ -16,6 +16,12 @@ I'm a DevOps Engineer with 7+ years of experience building secure, scalable clou
 
 ## 🚀 Featured Projects
 
+### [Production-Ready AKS Platform](https://github.com/terrythomas00/production-aks-platform)
+Production-grade Azure Kubernetes Service infrastructure demonstrating modern DevOps practices and cloud-native architecture
+- **Tech:** Kubernetes (AKS), Terraform, Prometheus, Grafana, Helm, Azure
+- **Features:** Multi-tier application deployment, comprehensive monitoring, network security policies, infrastructure as code
+- **Impact:** Demonstrates container orchestration, security hardening, and production-ready infrastructure management
+  
 ### [Serverless S3 Compliance Scanner](https://github.com/terrythomas00/serverless-S3-compliance-scanner)
 Automated security scanner for S3 buckets with AI-powered risk analysis and reporting
 - **Tech:** Python, AWS Lambda, S3, CloudWatch, AI/ML
