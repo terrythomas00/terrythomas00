@@ -1,6 +1,6 @@
 # Hi, I'm Terry 👋
 
-**DevOps Engineer | Cloud Infrastructure | Python Automation | Azure Certified**
+**DevOps Engineer | Cloud Infrastructure | Python Automation | Azure Certified | Security +**
 
 I'm a DevOps Engineer with 7+ years of experience building secure, scalable cloud infrastructure on AWS and Azure. I specialize in automation, infrastructure as code, and cloud security.
 
