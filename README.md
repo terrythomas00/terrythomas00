@@ -2,8 +2,10 @@
 
 **DevOps Engineer | Cloud Infrastructure | Python Automation | Azure Certified | Security +**
 
-I'm a DevOps Engineer with 7+ years of experience building secure, scalable cloud infrastructure on AWS and Azure. I specialize in automation, infrastructure as code, and cloud security.
+DevOps Engineer with 4+ years of hands-on experience building and automating cloud infrastructure on AWS. Strong expertise in Terraform, CI/CD pipelines, and infrastructure as code. 
+Currently expanding skills in Azure and Kubernetes. Passionate about automation, reliability, and continuous improvement.
 
+Core skills: AWS | Terraform | Github Actions | CI/CD | Python | Linux | Security+
 ## 🔧 Technologies & Tools
 
 **Cloud Platforms:** AWS, Azure  
