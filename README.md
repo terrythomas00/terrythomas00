@@ -2,7 +2,7 @@
 
 ** Cloud Infrastructure | Python Automation | Azure Certified | AWS & Azure | Terraform Iac | Security +**
 
-Cloud infrastructure Engineer with 4+ years of hands-on experience building and automating cloud infrastructure on AWS. Strong expertise in Terraform, CI/CD pipelines, and infrastructure as code. 
+Cloud infrastructure Engineer with hands-on experience building and automating cloud infrastructure on AWS. Strong expertise in Terraform, CI/CD pipelines, and infrastructure as code. 
 Currently expanding skills in Azure and Kubernetes. Passionate about automation, reliability, and continuous improvement.
 
 Core skills: AWS | Terraform | Github Actions | CI/CD | Python | Linux | Security+
